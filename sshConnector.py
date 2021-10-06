@@ -1,4 +1,5 @@
 # Requires paramiko
+# Need to put function into ech try to reduce code repetition
 
 import paramiko
 import os
